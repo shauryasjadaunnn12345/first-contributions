@@ -247,4 +247,5 @@ Now let's get you started with contributing to other projects. We've compiled a 
 #   f i r s t c o n t r i b u t i o n  
  #   f i r s t - c o n t r i b u t i o n  
  #   g i t - c o n t r i b u t i o n s  
+ #   f i r s t - c o n t r i b u t i o n s  
  
